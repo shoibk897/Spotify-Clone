@@ -36,8 +36,8 @@ As someone who is passionate about both music and technology, creating a Spotify
 ## Setup
 
 1. Clone the repository:
-    git clone https://github.com/your-username/spotify-clone.git
-    
+    git clone https://github.com/shoibk897/Spotify-Clone.git
+
 2. Navigate into the project directory:
     cd spotify-clone
 
