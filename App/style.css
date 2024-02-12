@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
+
+* {
+  font-family: "Roboto", sans-serif;
+  color: white !important;
+  scroll-behavior: smooth !important;
+  list-style: none !important;
+  text-decoration: none !important;
+  box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
+
+/* SIDE BAR */
+.homeitems{
+    background-color: #121212;
+}
+.icon_text{
+    margin-left: 3px;
+    font-family: "Roboto", sans-serif !important;
+}
+.icon_reg{
+    font-size: 0.3rem;
+    position: relative;
+    top: -1.4em;
+    left: -0.2em;
+    opacity: 0.5;
+}
+.home2,.home1{
+    opacity: 0.7;
+    transition: 0.3s ease-in-out;
+}
+.home2:hover,.home1:hover{
+    opacity: 1;
+}
+.home1>a{
+    margin-left: 0.7em;
+    font-size: 1em;
+}
+.home2>a{
+    margin-left: 1.1em;
+    font-size: 1em;
+}
+.library{
+    background-color: #121212;
+    overflow: scroll !important;
+}
+
+.lib_content_in{
+    width: 100%;
+    background-color: #242424;
+    margin-top: 16px;
+}
+
+/* MAIN CONTENT  */
+
+
+
+/* BANNER SIGNUP */
